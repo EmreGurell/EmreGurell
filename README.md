@@ -1,4 +1,4 @@
-<img src="[https://www.datocms-assets.com/21211/1589191977-cover.jpg?auto=format&w=1100](https://embarkingonvoyage.com/wp-content/uploads/2022/03/March_Week_5_Blog_Banner_Website-980x551.png)" alt="banner" width="100%"/>
+<img src="(https://embarkingonvoyage.com/wp-content/uploads/2022/03/March_Week_5_Blog_Banner_Website-980x551.png)" alt="banner" width="100%"/>
 
 <h1 align="center">Hi 👋, I'm Emre Gürel</h1>
 <h3 align="center">Software Developer</h3>
