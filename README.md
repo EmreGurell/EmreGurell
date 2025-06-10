@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emre Gürel</h1>
-<h3 align="center">🚀 About me</h3>
+<h3 align="start">🚀 About me</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
