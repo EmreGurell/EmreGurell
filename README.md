@@ -10,7 +10,7 @@
 - 📚 I am open to learning, solution-oriented and productive.
 
 ---
-## 🌐 Sosyal Medya & İletişim
+## 🌐 Social Media & Communication
 
 <!-- Profil bağlantıların varsa buraya ekle -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emre-g%C3%BCrel-9b86112a5/)
