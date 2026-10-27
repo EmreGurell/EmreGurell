@@ -1,45 +1,105 @@
-<img src="https://embarkingonvoyage.com/wp-content/uploads/2022/03/March_Week_5_Blog_Banner_Website-980x551.png" alt="banner" width="100%"/>
+<div align="center">
+  <img src="./assets/ouranos-banner.svg" alt="OURANOS — Emre Gürel" width="100%" />
 
-<h1 align="center">Hi 👋, I'm Emre Gürel</h1>
-<h3 align="center">Software Developer</h3>
+  <br />
 
-## 🚀 About Me
+  **Full-Stack Engineer · AI Systems & Agent Orchestration · Product Builder**
 
-- 🎯 I am a junior developer and I develop full-stack projects with JavaScript.
-- 💡 I work on Flutter, React, React Native, Node.js, Express, MongoDB and PostgreSQL.
-- 📱 I am a versatile software developer who works primarily on mobile and wants to learn everything I can.
-- 🎨 I care about developing user-friendly, simple and performance-oriented interfaces.
-- 📚 I am open to learning, solution-oriented and productive.
+  <sub>Building thoughtful products and the systems behind them.</sub>
+
+  <br /><br />
+
+  [![Portfolio](https://img.shields.io/badge/PORTFOLIO-OURANOS-0B1326?style=flat-square&labelColor=0B1326&color=B8AD91)](https://www.gurelemre.dev)
+  [![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0B1326?style=flat-square&labelColor=0B1326&color=B8AD91)](https://www.linkedin.com/in/emre-gürel)
+  [![Email](https://img.shields.io/badge/EMAIL-SAY_HELLO-0B1326?style=flat-square&labelColor=0B1326&color=B8AD91)](mailto:gurelemredev@gmail.com)
+</div>
 
 ---
-## 🌐 Social Media & Communication
 
-<!-- Profil bağlantıların varsa buraya ekle -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emre-g%C3%BCrel-9b86112a5/)
-[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/EmreGurell)
-[![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:gurelemredev@gmail.com)
+### About
 
+I'm **Emre Gürel**, a computer engineering student and full-stack developer based in Istanbul, Türkiye. I build end-to-end applications, experiment with **agentic AI systems**, and enjoy turning ambitious ideas into usable products.
 
-## 🛠️ Language and Tools
+My work spans **Flutter mobile apps, TypeScript backends, web interfaces, and self-hosted infrastructure**. Lately, I'm especially interested in AI orchestration, persistent memory, developer tools, and designing software that feels effortless to use.
 
-🖥️ Programming Languages
+```text
+> current_focus
+  ai agents       orchestration · tools · memory
+  product         mobile · web · backend
+  infrastructure  containers · deployment · automation
+  philosophy      useful > flashy
+```
 
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
-🚀 Mobile Development
+### Selected work
 
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
-🌐 Web Development
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
-🧱 Databases
+**AMADEUS** · `AI / SYSTEMS`
 
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
-☁️ Cloud & DevOps
+An AI orchestration system exploring multi-agent workflows, persistent memory, tool integrations, and developer automation.
 
-<p align="left"> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> </p>
-🛠️ Other Tools
+<sub>Personal project · development</sub>
 
-<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
-🎮 Game Engines
+</td>
+<td width="50%" valign="top">
 
-<p align="left"> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+**EN MÜSAİT** · `SAAS / PRODUCT`
+
+An appointment-booking platform concept for service businesses, designed around flexible services, availability, and a simple customer experience.
+
+<sub>Product project · development</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**OURANOS** · `WEB / IDENTITY`
+
+A personal developer identity and portfolio focused on considered UI, engineering, and a restrained visual language.
+
+<sub>Personal website · in progress</sub>
+
+</td>
+<td width="50%" valign="top">
+
+**GYMBLE & AI DRESSLY** · `PRODUCT EXPERIMENTS`
+
+Explorations at the intersection of consumer applications, mobile experiences, and product development.
+
+<sub>Additional projects</sub>
+
+</td>
+</tr>
+</table>
+
+<sub>Some projects are private or in development; this is a selected overview, not a list of public releases.</sub>
+
+### Engineering toolkit
+
+| Area | Technologies |
+|:--|:--|
+| **Languages** | TypeScript · JavaScript · Dart · Python · Go |
+| **Mobile** | Flutter · React Native |
+| **Frontend** | React · Next.js · Tailwind CSS |
+| **Backend** | NestJS · Node.js · Express |
+| **Data** | PostgreSQL · Redis · MongoDB |
+| **Infrastructure** | Docker · Linux · GitHub Actions · self-hosted deployments |
+| **AI & tooling** | LLM orchestration · agent workflows · MCP · retrieval & memory systems |
+
+### GitHub activity
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=EmreGurell&show_icons=true&hide_border=true&bg_color=0D1525&title_color=D5C6A6&text_color=ACB7C8&icon_color=D5C6A6" />
+    <img height="165" alt="GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=EmreGurell&show_icons=true&hide_border=true&bg_color=ffffff&title_color=34445c&text_color=4d5865&icon_color=66758a" />
+  </picture>
+</div>
+
+---
+
+<div align="center">
+  <sub><strong>OURANOS</strong> · Build with intention.</sub>
+</div>
