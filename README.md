@@ -1,49 +1,54 @@
-<div align="center">
+<p align="center">
   <img src="./assets/ouranos-banner.svg" alt="Emre Gürel — Ouranos" width="100%" />
-</div>
+</p>
 
+<br>
 
-<div align="left">
+### Building software from interface to infrastructure.
 
-Building what comes next.
-I'm Emre Gürel — a full-stack developer based in Istanbul, building software across AI systems, mobile, web, and infrastructure.
+I'm **Emre Gürel**, a full-stack developer based in Istanbul. I build products across mobile, web, backend systems, and AI infrastructure.
 
-I like owning the entire journey: from the first interaction someone sees to the services, tools, and infrastructure making it work. Right now, much of my attention is on agent orchestration, long-term memory, and making complex systems feel simple.
+I care about the entire system, not just the screen: the experience people interact with, the architecture behind it, and the tools that keep it running.
 
-LinkedIn  ·  Email  ·  GitHub
-</div>
+[LinkedIn](https://www.linkedin.com/in/emre-g%C3%BCrel-9b86112a5/) · [Email](mailto:gurelemredev@gmail.com)
 
+---
 
-01 / Currently building
-Amadeus
-An AI orchestration system, not just another chatbot.
+### 01 — Current focus
 
-A personal project exploring what it takes to give AI agents a reliable working environment: a gateway, routing and orchestration, persistent memory, tool integrations, and specialized agents that can collaborate on real development workflows.
+**Amadeus** `AI orchestration / personal infrastructure`
 
-Agent orchestration   Tooling / MCP   Persistent memory   Developer workflows
+A personal AI system exploring agent orchestration, persistent memory, gateways, tool integration, and specialized agents that cooperate on real work.
 
-<sub>In development · Code and implementation details may not be public.</sub>
+`Gateway & routing` · `Agent orchestration` · `MCP & tools` · `Persistent memory`
 
-02 / Beyond the terminal
-En Müsait — A scheduling and appointment product for service-based businesses. The challenge is to make complex availability and service configuration straightforward for both sides of a booking.
+<sub>Under active development. Not presented as a public open-source release.</sub>
 
-Ouranos — My personal developer identity and portfolio. A quieter, more considered approach to showcasing engineering and digital products.
+### 02 — Products & experiments
 
-Gymble / AI Dressly — Additional product experiments spanning mobile experiences and consumer-facing software.
+| Project | What I'm building |
+| :-- | :-- |
+| **En Müsait** | Appointment and scheduling infrastructure for service-based businesses. |
+| **Ouranos** | My developer identity, portfolio, and personal web presence. |
+| **Gymble** | Mobile and product experimentation in the fitness space. |
+| **AI Dressly** | Consumer-facing product experimentation with AI. |
 
-<sub>Selected personal projects; not all are publicly released or open source.</sub>
+<sub>Selected work. Some projects are private or still in development.</sub>
 
-03 / Things I build with
-Product & interfaces
-Flutter · Dart · React · Next.js · TypeScript · Tailwind CSS
+### 03 — My toolkit
 
-Services & data
-NestJS · Node.js · PostgreSQL · Redis · REST APIs
+**Product & UI**  
+`Flutter` · `Dart` · `React` · `Next.js` · `TypeScript` · `Tailwind CSS`
 
-Systems & infrastructure
-Go · Python · Docker · Linux · self-hosted deployments
+**Backend & data**  
+`NestJS` · `Node.js` · `Go` · `PostgreSQL` · `Redis`
 
-AI & developer tooling
-Agent workflows · orchestration · MCP · retrieval and memory systems
+**Infrastructure**  
+`Docker` · `Linux` · `Self-hosting` · `CI/CD`
 
-<sub>OURANOS   /   Make it useful. Make it last.</sub>
+**AI systems**  
+`Agent orchestration` · `MCP` · `Memory systems` · `Developer tooling`
+
+---
+
+<sub>OURANOS / Build deliberately.</sub>
