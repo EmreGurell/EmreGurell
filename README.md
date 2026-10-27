@@ -1,105 +1,49 @@
 <div align="center">
-  <img src="./assets/ouranos-banner.svg" alt="OURANOS — Emre Gürel" width="100%" />
-
-  <br />
-
-  **Full-Stack Engineer · AI Systems & Agent Orchestration · Product Builder**
-
-  <sub>Building thoughtful products and the systems behind them.</sub>
-
-  <br /><br />
-
-  [![Portfolio](https://img.shields.io/badge/PORTFOLIO-OURANOS-0B1326?style=flat-square&labelColor=0B1326&color=B8AD91)](https://www.gurelemre.dev)
-  [![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0B1326?style=flat-square&labelColor=0B1326&color=B8AD91)](https://www.linkedin.com/in/emre-gürel)
-  [![Email](https://img.shields.io/badge/EMAIL-SAY_HELLO-0B1326?style=flat-square&labelColor=0B1326&color=B8AD91)](mailto:gurelemredev@gmail.com)
+  <img src="./assets/ouranos-banner.svg" alt="Emre Gürel — Ouranos" width="100%" />
 </div>
 
----
 
-### About
+<div align="left">
 
-I'm **Emre Gürel**, a computer engineering student and full-stack developer based in Istanbul, Türkiye. I build end-to-end applications, experiment with **agentic AI systems**, and enjoy turning ambitious ideas into usable products.
+Building what comes next.
+I'm Emre Gürel — a full-stack developer based in Istanbul, building software across AI systems, mobile, web, and infrastructure.
 
-My work spans **Flutter mobile apps, TypeScript backends, web interfaces, and self-hosted infrastructure**. Lately, I'm especially interested in AI orchestration, persistent memory, developer tools, and designing software that feels effortless to use.
+I like owning the entire journey: from the first interaction someone sees to the services, tools, and infrastructure making it work. Right now, much of my attention is on agent orchestration, long-term memory, and making complex systems feel simple.
 
-```text
-> current_focus
-  ai agents       orchestration · tools · memory
-  product         mobile · web · backend
-  infrastructure  containers · deployment · automation
-  philosophy      useful > flashy
-```
-
-### Selected work
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**AMADEUS** · `AI / SYSTEMS`
-
-An AI orchestration system exploring multi-agent workflows, persistent memory, tool integrations, and developer automation.
-
-<sub>Personal project · development</sub>
-
-</td>
-<td width="50%" valign="top">
-
-**EN MÜSAİT** · `SAAS / PRODUCT`
-
-An appointment-booking platform concept for service businesses, designed around flexible services, availability, and a simple customer experience.
-
-<sub>Product project · development</sub>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**OURANOS** · `WEB / IDENTITY`
-
-A personal developer identity and portfolio focused on considered UI, engineering, and a restrained visual language.
-
-<sub>Personal website · in progress</sub>
-
-</td>
-<td width="50%" valign="top">
-
-**GYMBLE & AI DRESSLY** · `PRODUCT EXPERIMENTS`
-
-Explorations at the intersection of consumer applications, mobile experiences, and product development.
-
-<sub>Additional projects</sub>
-
-</td>
-</tr>
-</table>
-
-<sub>Some projects are private or in development; this is a selected overview, not a list of public releases.</sub>
-
-### Engineering toolkit
-
-| Area | Technologies |
-|:--|:--|
-| **Languages** | TypeScript · JavaScript · Dart · Python · Go |
-| **Mobile** | Flutter · React Native |
-| **Frontend** | React · Next.js · Tailwind CSS |
-| **Backend** | NestJS · Node.js · Express |
-| **Data** | PostgreSQL · Redis · MongoDB |
-| **Infrastructure** | Docker · Linux · GitHub Actions · self-hosted deployments |
-| **AI & tooling** | LLM orchestration · agent workflows · MCP · retrieval & memory systems |
-
-### GitHub activity
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=EmreGurell&show_icons=true&hide_border=true&bg_color=0D1525&title_color=D5C6A6&text_color=ACB7C8&icon_color=D5C6A6" />
-    <img height="165" alt="GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=EmreGurell&show_icons=true&hide_border=true&bg_color=ffffff&title_color=34445c&text_color=4d5865&icon_color=66758a" />
-  </picture>
+LinkedIn  ·  Email  ·  GitHub
 </div>
 
----
 
-<div align="center">
-  <sub><strong>OURANOS</strong> · Build with intention.</sub>
-</div>
+01 / Currently building
+Amadeus
+An AI orchestration system, not just another chatbot.
+
+A personal project exploring what it takes to give AI agents a reliable working environment: a gateway, routing and orchestration, persistent memory, tool integrations, and specialized agents that can collaborate on real development workflows.
+
+Agent orchestration   Tooling / MCP   Persistent memory   Developer workflows
+
+<sub>In development · Code and implementation details may not be public.</sub>
+
+02 / Beyond the terminal
+En Müsait — A scheduling and appointment product for service-based businesses. The challenge is to make complex availability and service configuration straightforward for both sides of a booking.
+
+Ouranos — My personal developer identity and portfolio. A quieter, more considered approach to showcasing engineering and digital products.
+
+Gymble / AI Dressly — Additional product experiments spanning mobile experiences and consumer-facing software.
+
+<sub>Selected personal projects; not all are publicly released or open source.</sub>
+
+03 / Things I build with
+Product & interfaces
+Flutter · Dart · React · Next.js · TypeScript · Tailwind CSS
+
+Services & data
+NestJS · Node.js · PostgreSQL · Redis · REST APIs
+
+Systems & infrastructure
+Go · Python · Docker · Linux · self-hosted deployments
+
+AI & developer tooling
+Agent workflows · orchestration · MCP · retrieval and memory systems
+
+<sub>OURANOS   /   Make it useful. Make it last.</sub>
